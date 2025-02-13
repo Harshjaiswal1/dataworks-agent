@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+python-multipart
+sentence-transformers
+scikit-learn
+beautifulsoup4
+Pillow
+markdown
+pandas
